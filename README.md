@@ -1,0 +1,52 @@
+# Hush
+
+**Turn any website into its own Mac app — locked with Touch ID.**
+
+WhatsApp, Gmail, Slack, anything: give Hush the website and a name, and it makes
+a real Mac app for it. Its own icon in the Dock, opens with ⌘ Space, stays signed
+in, and locks itself whenever you look away.
+
+## Install
+
+Open **Terminal**, paste this, press Return:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Tarun-kumar-29/hush/main/install.sh | bash
+```
+
+Needs macOS 12 (Monterey) or newer. Nothing else gets installed.
+
+<details>
+<summary>Or install by hand</summary>
+
+1. Download **Hush.zip** from the [latest release](https://github.com/Tarun-kumar-29/hush/releases/latest).
+2. Unzip it and drag **Hush** into **Applications**.
+3. The first time only: right-click Hush → **Open** → **Open** (it isn't from the App Store).
+
+</details>
+
+## Make an app
+
+1. Open Hush and paste a website — `web.whatsapp.com`, `mail.google.com`, `app.slack.com`…
+2. It fills in the name and grabs the site's icon. Change either if you like.
+3. Press **Create App**. It opens right away, and from now on it's in ⌘ Space and Launchpad.
+
+## What each app does
+
+- **Locks itself** — when you switch to another app, after a few idle minutes,
+  when the Mac sleeps, and when you minimise it. ⌘L locks it right away.
+  Unlock with Touch ID or your Mac password.
+- **Notifications** like a normal app, and an unread count on the Dock icon.
+- **Stays signed in**, separately from your browser and from every other app.
+- **Settings** (⌘ ,) for lock timing, notification previews and sign-out.
+
+## Updates
+
+Automatic. Hush and all the apps it made update themselves — you never need to
+download anything again. **Check for Updates…** in the app menu checks right away.
+
+## Good to know
+
+- The lock covers the window; it isn't encryption. Your data stays on your Mac,
+  protected by your Mac login.
+- Closing a window keeps the app running so messages still arrive. ⌘Q quits.
