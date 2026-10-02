@@ -38,9 +38,11 @@ Needs macOS 12 (Monterey) or newer. Nothing else gets installed.
   Unlock with Touch ID or your Mac password.
 - **Notifications** like a normal app — choose whether they show who it's from
   and the message, only who it's from, or just the app's name.
-- **Private while you share your screen** — hide the window from Meet, Zoom,
-  Teams and screenshots, and get private banners that only you can see
-  (macOS hides normal notifications while you share).
+- **Private while you share your screen** — switch on "Hide from screen sharing"
+  and people in your Meet, Zoom or Teams call see an empty space where the app
+  is, while you keep using it (your own screenshots still work). Private
+  banners show you notifications that the call can't see (macOS hides normal
+  notifications while you share).
 - **Mute** for an hour, 8 hours or until tomorrow, and choose what the Dock icon
   shows: the unread count, a dot, or nothing.
 - **Your choice of sound** — the website's own alert sound, any macOS sound,
