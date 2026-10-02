@@ -36,11 +36,18 @@ Needs macOS 12 (Monterey) or newer. Nothing else gets installed.
 - **Locks itself** — when you switch to another app, after a few idle minutes,
   when the Mac sleeps, and when you minimise it. ⌘L locks it right away.
   Unlock with Touch ID or your Mac password.
-- **Notifications** like a normal app, and an unread count on the Dock icon.
+- **Notifications** like a normal app — choose whether they show who it's from
+  and the message, only who it's from, or just the app's name.
+- **Private while you share your screen** — hide the window from Meet, Zoom,
+  Teams and screenshots, and get private banners that only you can see
+  (macOS hides normal notifications while you share).
+- **Mute** for an hour, 8 hours or until tomorrow, and choose what the Dock icon
+  shows: the unread count, a dot, or nothing.
 - **Your choice of sound** — the website's own alert sound, any macOS sound,
   a sound file of your own, or none.
 - **Stays signed in**, separately from your browser and from every other app.
-- **Settings** (⌘ ,) for lock timing, notification sound and previews, and sign-out.
+- **Settings** (⌘ ,) for all of it, and a **Privacy** menu for the quick toggles
+  (⇧⌘P hides the window from screen sharing).
 
 ## Updates
 
