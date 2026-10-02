@@ -37,8 +37,10 @@ Needs macOS 12 (Monterey) or newer. Nothing else gets installed.
   when the Mac sleeps, and when you minimise it. ⌘L locks it right away.
   Unlock with Touch ID or your Mac password.
 - **Notifications** like a normal app, and an unread count on the Dock icon.
+- **Your choice of sound** — the website's own alert sound, any macOS sound,
+  a sound file of your own, or none.
 - **Stays signed in**, separately from your browser and from every other app.
-- **Settings** (⌘ ,) for lock timing, notification previews and sign-out.
+- **Settings** (⌘ ,) for lock timing, notification sound and previews, and sign-out.
 
 ## Updates
 
