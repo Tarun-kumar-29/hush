@@ -40,7 +40,8 @@ Needs macOS 12 (Monterey) or newer. Nothing else gets installed.
   and the message, only who it's from, or just the app's name.
 - **Private while you share your screen** — switch on "Hide from screen sharing"
   and people in your Meet, Zoom or Teams call see an empty space where the app
-  is, while you keep using it (your own screenshots still work). Private
+  is, while you keep using it. Normal screenshots come out black too, so use
+  **Screenshot This Window** (⇧⌘2) for your own screenshot. Private
   banners show you notifications that the call can't see (macOS hides normal
   notifications while you share).
 - **Mute** for an hour, 8 hours or until tomorrow, and choose what the Dock icon
