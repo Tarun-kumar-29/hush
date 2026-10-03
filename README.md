@@ -44,13 +44,23 @@ Needs macOS 12 (Monterey) or newer. Nothing else gets installed.
   **Screenshot This Window** (⇧⌘2) for your own screenshot. Private
   banners show you notifications that the call can't see (macOS hides normal
   notifications while you share).
-- **Mute** for an hour, 8 hours or until tomorrow, and choose what the Dock icon
-  shows: the unread count, a dot, or nothing.
-- **Your choice of sound** — the website's own alert sound, any macOS sound,
-  a sound file of your own, or none.
+- **Private banners you can style** — compact or large, light or dark, any
+  corner. Hover to keep one on screen; messages from the same person stack
+  into one banner with a count; one click mutes for an hour.
+- **Mute** for an hour, 8 hours or until tomorrow, or set **quiet hours** (say
+  10 PM–8 AM every day). Choose what the Dock icon shows: the unread count, a
+  dot, or nothing.
+- **Your choice of sound and volume** — the website's own alert sound, any macOS
+  sound, a sound file of your own, or none, at the level you pick.
 - **Stays signed in**, separately from your browser and from every other app.
-- **Settings** (⌘ ,) for all of it, and a **Privacy** menu for the quick toggles
-  (⇧⌘P hides the window from screen sharing).
+- **Profiles** — sets of settings that switch on by themselves: Work on
+  weekdays 9–6, Meeting while Zoom or Teams is open (hidden from sharing, silent,
+  private banners), Night muted 10 PM–7 AM, Home on your Wi-Fi, On the Go on
+  battery — or your own, by days and hours, Wi-Fi network, open apps, an
+  external display or battery. Switch by hand from the Privacy menu any time.
+- **Shortcuts you choose** — lock, hide from screen sharing, screenshot, mute,
+  banners on/off, next profile, and one that **shows or hides the app from anywhere**.
+- **Settings** (⌘ ,) for all of it, and a **Privacy** menu for the quick toggles.
 
 ## Updates
 
